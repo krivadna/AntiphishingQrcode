@@ -75,10 +75,10 @@ graph LR
 
 ## 🌈 Future Roadmap 🛣️
 
-2024 Q2 | 2024 Q3 | 2024 Q4 | 2025 Q1
---------|----------|----------|----------
-🚀 Launch | 🤖 AI Integration | 🔗 Blockchain | 🌐 Global Scale
-📱 Mobile App | 🔒 Quantum Security | 🛡️ Zero Trust | 🔮 Predictive Defense
+2025 Q1 | 
+--------|
+🤖 AI Integration 
+🔒 Quantum Security 
 
 ## 🏆 Achievements 🎖️
 
