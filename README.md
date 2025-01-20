@@ -35,25 +35,6 @@ Traditional anti-phishing methods try to detect and block fake pages after they'
    - 🔒 Dynamic HMAC-based verification
    - ⏰ Time-bound tokens for enhanced security
 
-## 🔧 Core Technology 💻
-
-```javascript
-// 🚀 Example of the revolutionary verification system
-class QRShield {
-    constructor(domain) {
-        this.domain = domain;               // 🌐 Domain protection
-        this.tokenRefreshRate = 30000;      // ⏱️ 30 seconds refresh
-        this.serverSecret = crypto.randomBytes(32); // 🔐 Secure key
-    }
-
-    generateVerificationQR() {
-        const timestamp = Date.now();       // ⏰ Time tracking
-        const token = this.generateHMAC(timestamp); // 🔑 Token generation
-        return this.createQRCode(`${this.domain}/verify/${token}`); // 📱 QR creation
-    }
-}
-```
-
 ## 🌟 Features Matrix 📊
 
 | Feature | QR Shield | Traditional Solutions |
