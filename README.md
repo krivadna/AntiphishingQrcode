@@ -86,6 +86,9 @@ graph LR
 [![PoC](https://img.shields.io/badge/Proof%20of%20Concept-Successful-success)]()
 [![Tests](https://img.shields.io/badge/Security%20Tests-Passed-brightgreen)]()
 
+## 🚀 Live Demo
+
+  [![Watch Demo on YouTube](https://img.shields.io/badge/Watch_Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com/shorts/2lD12RjmWo0?si=cOJv5Qs0iJjPwmsO)
 
 ### 🌐 Connect With Me
 [![Discord](https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/kalkikrivadna)
