@@ -1,4 +1,4 @@
-# 🌟 QR Shield: Revolutionary Anti-Phishing Protection 🛡️
+# 🌟 Anti-Phishing Quantum QR Shield by Cyber Kalki: Revolutionary Anti-Phishing Protection 🛡️
 > 🔐 The world's first QR-based authentication system for login page verification 🌐
 
 [![Stars](https://img.shields.io/badge/Stars-⭐⭐⭐⭐⭐-gold)]()
