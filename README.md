@@ -83,12 +83,15 @@ graph LR
 [![PoC](https://img.shields.io/badge/Proof%20of%20Concept-Successful-success)]()
 [![Tests](https://img.shields.io/badge/Security%20Tests-Passed-brightgreen)]()
 
-## 📞 Connect With Us 🤝
 
-- 🌐 Website: https://kalkikrivadna.com
-- 🛡️ HackerOne: https://hackerone.com/kalki999_babaji
-- 📧 Email: [Contact Us](mailto:contact@kalkikrivadna.com)
-- 💬 Discord: [Join Our Community](https://discord.gg/qrshield)
+### 🌐 Connect With Me
+[![Discord](https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/kalkikrivadna)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+mt89ex-DKJlkNDBl)
+ 🌐 Website: https://kalkikrivadna.com
+
+<!-- Footer -->
+<img src="https://raw.githubusercontent.com/krivadna/krivadna/refs/heads/main/footer.svg" width="100%" alt="Cyberpunk Footer"/>
+
 
 
 *🚀 QR Shield - Revolutionizing Login Security One Scan at a Time 🛡️*
