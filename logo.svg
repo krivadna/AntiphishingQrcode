@@ -12,13 +12,29 @@
       <feGaussianBlur stdDeviation="3" result="blur"/>
       <feComposite in="SourceGraphic" in2="blur" operator="over"/>
     </filter>
+    
+    <!-- Text glow -->
+    <filter id="textGlow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
   </defs>
 
   <!-- Dark background -->
   <rect width="800" height="400" fill="#0a192f"/>
   
+  <!-- Title at the top -->
+  <text x="400" y="40" font-family="Arial" font-size="28" font-weight="bold" fill="#00ff88" text-anchor="middle" filter="url(#textGlow)">
+    Anti-Phishing Quantum QR Shield
+    <animate
+      attributeName="opacity"
+      values="0.8;1;0.8"
+      dur="2s"
+      repeatCount="indefinite"/>
+  </text>
+  
   <!-- Large QR Code -->
-  <g transform="translate(250, 50)">
+  <g transform="translate(250, 70)">
     <!-- QR Code Corners -->
     <!-- Top Left -->
     <path d="M0,0 h60 v10 h-50 v50 h-10 z" fill="#00ff88"/>
@@ -48,17 +64,17 @@
   </g>
 
   <!-- Scanning line -->
-  <rect x="250" y="50" width="240" height="240" fill="none" stroke="#00ff88" stroke-width="2"/>
-  <rect x="250" y="50" width="240" height="10" fill="url(#scannerGradient)" filter="url(#scanGlow)">
+  <rect x="250" y="70" width="240" height="240" fill="none" stroke="#00ff88" stroke-width="2"/>
+  <rect x="250" y="70" width="240" height="10" fill="url(#scannerGradient)" filter="url(#scanGlow)">
     <animate 
       attributeName="y" 
-      values="50;280;50" 
+      values="70;300;70" 
       dur="3s" 
       repeatCount="indefinite"/>
   </rect>
 
-  <!-- Success checkmark (appears after scan) -->
-  <g transform="translate(550, 150)">
+  <!-- Success checkmark -->
+  <g transform="translate(550, 170)">
     <circle cx="25" cy="25" r="25" fill="none" stroke="#00ff88" stroke-width="3">
       <animate
         attributeName="stroke-dasharray"
@@ -75,9 +91,9 @@
     </path>
   </g>
 
-  <!-- Text -->
-  <text x="400" y="350" font-family="Arial" font-size="24" fill="#00ff88" text-anchor="middle" filter="url(#scanGlow)">
-    Quantum QR Shield
+  <!-- Subtitle -->
+  <text x="400" y="360" font-family="Arial" font-size="20" fill="#00ff88" text-anchor="middle" filter="url(#textGlow)">
+    Revolutionary Login Security
     <animate
       attributeName="opacity"
       values="0.7;1;0.7"
