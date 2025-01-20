@@ -90,10 +90,5 @@ graph LR
 - 📧 Email: [Contact Us](mailto:contact@kalkikrivadna.com)
 - 💬 Discord: [Join Our Community](https://discord.gg/qrshield)
 
-## 🌟 Star History 📈
-
-[![Star History Chart](https://img.shields.io/badge/Star%20History-View%20Trend-blue)]()
-
----
 
 *🚀 QR Shield - Revolutionizing Login Security One Scan at a Time 🛡️*
